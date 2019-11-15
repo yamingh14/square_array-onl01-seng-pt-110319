@@ -3,5 +3,5 @@ def square_array(array)
 array.each do |squared|
   calc.push(squared * squared)
   end
-  array
+  calc
 end
